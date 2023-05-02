@@ -8,7 +8,8 @@
 
 - 💬 Ask me about **Typescript & Rust(Prob won't know the answer, but it will be a pleasure to try)**
 
-- ⚡ Fun fact **Do I have any fans?😳**
+- ⚡ Fun fact **
+I wrote a short story and it's in a published book 😳**
 
 - 👨‍💻 More at (Actually, my portfolio is not public at the moment, but I'm doing pretty cool stuff)
 
