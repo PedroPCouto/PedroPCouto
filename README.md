@@ -2,18 +2,13 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Pedro!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PedroPCouto&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Junior Developer | Beginner at programming 
+- 🔥 Junior <b>Salesforce</b> Developer 
 
 - 🔭 I’m currently working at Evolua Energia
 
-- 💬 Ask me about **Typescript & Rust(Prob won't know the answer, but it will be a pleasure to try)**
+- 💬 Ask me about Apex Salesforce
 
-- ⚡ Fun fact **
-I wrote a short story and it's in a published book 😳**
-
-- 👨‍💻 More at (Actually, my portfolio is not public at the moment, but I'm doing pretty cool stuff)
-
-- 🌱 I’m currently learning React & Nodejs
+- 🌱 I’m currently learning LWC and Einstein Bots
 
 <br><br>
 
@@ -26,7 +21,7 @@ I wrote a short story and it's in a published book 😳**
 ![C#](https://img.shields.io/badge/-CS-05122A?style=flat&logo=Csharp)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Salesforce](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=salesforce)&nbsp;
+![Salesforce](https://img.shields.io/badge/-Salesforce-05122A?style=flat&logo=salesforce)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 
 <br><br>
